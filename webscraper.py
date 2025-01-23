@@ -1,17 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 21 19:59:47 2024
-
-@author: Huawei
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 14 15:24:55 2024
-
-@author: Huawei
-"""
-
 
 import requests 
 import json

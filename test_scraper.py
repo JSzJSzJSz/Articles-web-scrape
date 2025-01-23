@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 14 16:02:38 2024
 
-@author: Huawei
-"""
-
-#w srodowisku jest wczytany scraper
 import time
 import requests 
 import json
@@ -14,9 +7,9 @@ import re
 import os 
 import mouse
 
-from  webscraper import scraper,article
+from  webscraper import scraper
 
-cwd = os.getcwd()+"\\z_radomia"
+cwd = os.getcwd()+"\\test2"
 try:
     os.makedirs(cwd+"\\WP")
     os.makedirs(cwd+"\\ON")
